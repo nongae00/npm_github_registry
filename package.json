@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nongae00/npm_github_registry/issues"
   },
-  "homepage": "https://github.com/nongae00/npm_github_registry#readme"
+  "homepage": "https://github.com/nongae00/npm_github_registry#readme",
+  "publishConfig": {
+   "@nongae00:registry": "https://npm.pkg.github.com"
+ }
 }
